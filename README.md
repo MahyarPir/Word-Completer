@@ -1,1 +1,1 @@
-# Word-Completer
+This word completer program takes a word from a user as input, and automatically completes the sentence using simple probability to find the letter that most likely follows the last. This process relies on a large source of text, primarily from older books that are free to use.
